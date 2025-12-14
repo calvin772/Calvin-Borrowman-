@@ -1,42 +1,34 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Calvin Borrowmans' CV
 ---
 # Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+Student
 
 <div id="webaddress">
 <a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+| <a href="https://en.wikipedia.org/wiki/Calvin_and_Hobbes">My wikipedia page</a>
 </div>
 
 
 ## Currently
 
-Standing on the shoulders of giants
+Finishing Fall semester exams
 
 ### Specialized in
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
-
+BioInformatics, genetic research, programming functions
 
 ### Research interests
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+Genetics, molecular biology
 
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`2021-NOW`
+__Brigham Young University-Idaho, Rexburg.__
 
-`June 1661 - now`
-__Trinity College, Cambridge__
-
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
 
 - Fellow
 
@@ -44,10 +36,8 @@ __Trinity College, Cambridge__
 
 ## Awards
 
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
+`2025`
+None
 
 
 
@@ -57,33 +47,31 @@ Associate, *French Academy of Science*, Paris, France
 
 ### Journals
 
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
+`2025`
+None 
 
 ### Patents
 
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
+`2025`
+None
 
 
 ## Occupation
 
-`1600`
-__Royal Mint__, London
+`2025`
+__Idaho State Department of Agriculture__, Boise
 
-- Warden
-- Minted coins
+- Field Inspector
+- Inspected seed fields for diseases
 
 `1600`
-__Lucasian professor of Mathematics__, Cambridge University
+__Milk Logic__, Nampa
+
+- Lab Tech
+- Collected and Incubated milk samples
 
 
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: December 2025 -->
